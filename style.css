@@ -128,9 +128,9 @@ section {position: relative;}
 .event .e-head .e-date i {}
 .event .e-head .e-event {float:right;height:15px;width:15px;}
 .event .e-head .e-event img {max-width: 100%;height: inherit !important;width: inherit !important;}
-.event .e-title {font-size:28px;text-align: center;margin-top: 30px;}
-.event .e-body {font-size:12px;line-height:15px;text-align: center;margin-top: 22px;}
-.col-md-6 .event .e-title {font-size: 14px;text-align: left !important;}
+.event .e-title {font-size:30px;text-align: center;margin-top: 30px;}
+.event .e-body {font-size:15px;line-height:19px;text-align: center;margin-top: 22px;}
+.col-md-6 .event .e-title {font-size: 21px;text-align: left !important;}
 .col-md-6 .event .e-body {width: 240px;text-align: left !important;margin-top: 4px;}
 .event .e-foot {font-size: 10px;position: absolute;width: 100%;left: 0;bottom: 18px;padding: 0 18px;}
 .event .e-foot i {}
