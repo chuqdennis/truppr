@@ -1,0 +1,78 @@
+/* latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Muli Light'), local('Muli-Light'), url(../images/fonts/muli/T-qN9Yh40TTJeenUALkjgg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Muli'), url(../images/fonts/muli/z6c3Zzm51I2zB_Gi7146Bg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Muli Light Italic'), local('Muli-LightItalic'), url(../images/fonts/muli/Q5N_zd0042xOVES9NXt9QltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Muli Italic'), local('Muli-Italic'), url(../images/fonts/muli/RGzT9VzvdKojoeSA3nPC6Q.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@font-face {
+    font-family: 'Antonio Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Antonio Light'), url('../images/fonts/antonio/Antonio-Light.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Antonio Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Antonio Regular'), url('../images/fonts/antonio/Antonio-Regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Antonio Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Antonio Bold'), url('../images/fonts/antonio/Antonio-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url(../images/fonts/material/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+    -moz-osx-font-smoothing: grayscale;
+}
